@@ -1,5 +1,7 @@
 # Sign Language Digits Recognition
 
+![Sign Language Digits Recognition](https://www.salihbout.com/img/posts/sign-cnn/preview-sign.png)
+
 This project focuses on recognizing sign language digits using different neural network architectures.
 
 ## Table of Contents
